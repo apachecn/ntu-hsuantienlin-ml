@@ -14,7 +14,7 @@
 
 &zwj;
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/ntu-hsuantienlin-ml/details)
++ [在线阅读](https://ntuml.apachecn.org)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ntu-hsuantienlin-ml)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ntu-hsuantienlin-ml)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ntu-hsuantienlin-ml)
