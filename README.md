@@ -23,6 +23,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install ntu-hsuantienlin-ml
+ntu-hsuantienlin-ml <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
