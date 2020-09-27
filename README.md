@@ -19,3 +19,14 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ntu-hsuantienlin-ml)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ntu-hsuantienlin-ml)
 + [代码仓库](https://github.com/apachecn/ntu-hsuantienlin-ml)
+
+
+## 下载
+
+### NPM
+
+```
+npm install -g ntu-hsuantienlin-ml
+ntu-hsuantienlin-ml <port>
+# 访问 http://localhost:{port} 查看文档
+```
